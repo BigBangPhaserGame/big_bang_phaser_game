@@ -28,6 +28,7 @@ File structure:
         /phaser.min.js <br/>
         /require.js <br/>
       /README.md <br/>
+</pre>
 
 
 The full url for loading the game will then be similar to any of the following (or with "index.html" at the end): 
