@@ -1,4 +1,4 @@
-big_bang_phaser_game
+Big Bang Phaser Game
 ====================
 
 A JavaScript multi-player game using the Phaser JavaScript framework and the Big Bang backend
@@ -23,11 +23,11 @@ parent level (e.g., localhost, www.localhost.dev, MAMP/htdocs, etc.)
       /images
         /char01.png
       /index.html
-      /instructions.rtf
       /js
         /main.js
         /phaser.min.js
         /require.js
+      /README.md
 
 
 The full url for loading the game will then be similar to any of the following (or with "index.html" at the end): 
