@@ -17,17 +17,17 @@ To use the Big Bang backend with this repository, set up your file structure as 
 File structure (this doesn't show up correctly on github.com, so view the actual README.md file):
 
 Parent Level (e.g., localhost, www.localhost.dev, MAMP/htdocs, etc.) <br/>
-  /Big_Bang_Phaser_Project
-    /bbclient.min.js
-    /big_bang_phaser_game
-      /images
-        /char01.png
-      /index.html
-      /js
-        /main.js
-        /phaser.min.js
-        /require.js
-      /README.md
+  /Big_Bang_Phaser_Project <br/>
+    /bbclient.min.js <br/>
+"    /big_bang_phaser_game" <br/>
+      /images <br/>
+        /char01.png <br/>
+      /index.html <br/>
+      /js <br/>
+        /main.js <br/>
+        /phaser.min.js <br/>
+        /require.js <br/>
+      /README.md <br/>
 
 
 The full url for loading the game will then be similar to any of the following (or with "index.html" at the end): 
