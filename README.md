@@ -16,7 +16,7 @@ To use the Big Bang backend with this repository, set up your file structure as 
 
 File structure (this doesn't show up correctly on github.com, so view the actual README.md file):
 
-parent level (e.g., localhost, www.localhost.dev, MAMP/htdocs, etc.)
+Parent Level (e.g., localhost, www.localhost.dev, MAMP/htdocs, etc.) <br/>
   /Big_Bang_Phaser_Project
     /bbclient.min.js
     /big_bang_phaser_game
