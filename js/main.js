@@ -1,5 +1,6 @@
 require.config({
     baseUrl: '/Big_Bang_Phaser_Project',
+        // set baseURL to 'js' when bbclient.min.js is in the folder entitled 'js' along with main.js, phaser.min.js, and require.js
     paths: {
         "BrowserBigBangClient": "bbclient.min",
         "BigBangClient": "bbclient.min"

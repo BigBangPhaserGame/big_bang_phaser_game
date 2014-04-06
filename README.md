@@ -4,7 +4,7 @@ Big Bang Phaser Game
 A JavaScript multi-player game using the Phaser JavaScript framework and the Big Bang backend
 
 
-Instructions for use:
+Instructions for Use
 ====================
 
 To use the Big Bang backend with this repository, set up your file structure as follows. 
