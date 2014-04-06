@@ -14,7 +14,7 @@ To use the Big Bang backend with this repository, set up your file structure as 
 3. Add a clone of this git repository ("big_bang_phaser_game") to the "Big_Bang_Phaser_Project" folder. This git repository includes the other folders and files shown below.
 
 
-File structure:
+File structure (this doesn't show up correctly on github.com, so view the actual README.md file):
 
 parent level (e.g., localhost, www.localhost.dev, MAMP/htdocs, etc.)
   /Big_Bang_Phaser_Project
