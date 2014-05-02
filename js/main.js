@@ -68,6 +68,10 @@ require(['BigBangClient', 'BrowserBigBangClient'], function (bb, bbw) {
 
         function create() {
             game.stage.backgroundColor = '#9966FF';
+            
+            //  Phaser will automatically pause if the browser tab the game is in loses focus. You can disable that here:
+            this.stage.disableVisibilityChange = true;
+            
             var playerName = prompt("What is your name?");
                 if (playerName == "") {
                     playerName = prompt("Please enter a name.");
